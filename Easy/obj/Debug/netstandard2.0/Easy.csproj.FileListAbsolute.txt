@@ -1,0 +1,9 @@
+C:\Users\tara\Documents\GitHub\CSharpCodingExercises\Easy\bin\Debug\netstandard2.0\Easy.deps.json
+C:\Users\tara\Documents\GitHub\CSharpCodingExercises\Easy\bin\Debug\netstandard2.0\Easy.dll
+C:\Users\tara\Documents\GitHub\CSharpCodingExercises\Easy\bin\Debug\netstandard2.0\Easy.pdb
+C:\Users\tara\Documents\GitHub\CSharpCodingExercises\Easy\obj\Debug\netstandard2.0\Easy.csprojResolveAssemblyReference.cache
+C:\Users\tara\Documents\GitHub\CSharpCodingExercises\Easy\obj\Debug\netstandard2.0\Easy.csproj.CoreCompileInputs.cache
+C:\Users\tara\Documents\GitHub\CSharpCodingExercises\Easy\obj\Debug\netstandard2.0\Easy.AssemblyInfoInputs.cache
+C:\Users\tara\Documents\GitHub\CSharpCodingExercises\Easy\obj\Debug\netstandard2.0\Easy.AssemblyInfo.cs
+C:\Users\tara\Documents\GitHub\CSharpCodingExercises\Easy\obj\Debug\netstandard2.0\Easy.dll
+C:\Users\tara\Documents\GitHub\CSharpCodingExercises\Easy\obj\Debug\netstandard2.0\Easy.pdb

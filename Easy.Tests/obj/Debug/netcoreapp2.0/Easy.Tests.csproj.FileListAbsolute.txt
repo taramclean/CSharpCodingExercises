@@ -1,0 +1,16 @@
+C:\Users\tara\Documents\GitHub\CSharpCodingExercises\Easy.Tests\bin\Debug\netcoreapp2.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\tara\Documents\GitHub\CSharpCodingExercises\Easy.Tests\bin\Debug\netcoreapp2.0\xunit.runner.utility.netstandard15.dll
+C:\Users\tara\Documents\GitHub\CSharpCodingExercises\Easy.Tests\bin\Debug\netcoreapp2.0\xunit.runner.reporters.netstandard15.dll
+C:\Users\tara\Documents\GitHub\CSharpCodingExercises\Easy.Tests\bin\Debug\netcoreapp2.0\Easy.Tests.deps.json
+C:\Users\tara\Documents\GitHub\CSharpCodingExercises\Easy.Tests\bin\Debug\netcoreapp2.0\Easy.Tests.runtimeconfig.json
+C:\Users\tara\Documents\GitHub\CSharpCodingExercises\Easy.Tests\bin\Debug\netcoreapp2.0\Easy.Tests.runtimeconfig.dev.json
+C:\Users\tara\Documents\GitHub\CSharpCodingExercises\Easy.Tests\bin\Debug\netcoreapp2.0\Easy.Tests.dll
+C:\Users\tara\Documents\GitHub\CSharpCodingExercises\Easy.Tests\bin\Debug\netcoreapp2.0\Easy.Tests.pdb
+C:\Users\tara\Documents\GitHub\CSharpCodingExercises\Easy.Tests\bin\Debug\netcoreapp2.0\Easy.dll
+C:\Users\tara\Documents\GitHub\CSharpCodingExercises\Easy.Tests\bin\Debug\netcoreapp2.0\Easy.pdb
+C:\Users\tara\Documents\GitHub\CSharpCodingExercises\Easy.Tests\obj\Debug\netcoreapp2.0\Easy.Tests.csprojResolveAssemblyReference.cache
+C:\Users\tara\Documents\GitHub\CSharpCodingExercises\Easy.Tests\obj\Debug\netcoreapp2.0\Easy.Tests.csproj.CoreCompileInputs.cache
+C:\Users\tara\Documents\GitHub\CSharpCodingExercises\Easy.Tests\obj\Debug\netcoreapp2.0\Easy.Tests.AssemblyInfoInputs.cache
+C:\Users\tara\Documents\GitHub\CSharpCodingExercises\Easy.Tests\obj\Debug\netcoreapp2.0\Easy.Tests.AssemblyInfo.cs
+C:\Users\tara\Documents\GitHub\CSharpCodingExercises\Easy.Tests\obj\Debug\netcoreapp2.0\Easy.Tests.dll
+C:\Users\tara\Documents\GitHub\CSharpCodingExercises\Easy.Tests\obj\Debug\netcoreapp2.0\Easy.Tests.pdb
